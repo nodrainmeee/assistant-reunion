@@ -1,0 +1,6 @@
+{
+  "name": "Assistant Réunion",
+  "description": "Assistant de réunion avec transcription en direct, diarisation des locuteurs et compte rendu structuré.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
