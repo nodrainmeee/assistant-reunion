@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Meeting Assistant</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_meetings">Meetings</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Meeting Assistant</string>
+    <string name="home_subtitle">Live transcription and structured reports</string>
+    <string name="home_btn_new_meeting">New meeting</string>
+    <string name="home_interrupted_meeting_title">Unfinished meeting detected</string>
+    <string name="home_interrupted_meeting_desc">A previous session was interrupted. What would you like to do?</string>
+    <string name="home_resume">Resume</string>
+    <string name="home_discard">Discard</string>
+
+    <!-- Status -->
+    <string name="status_active">In progress</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_ended">Ended</string>
+    <string name="status_analyzing">Analyzing…</string>
+    <string name="status_analyzed">Analyzed</string>
+    <string name="status_analysis_failed">Analysis failed</string>
+    <string name="duration_format">%1$02d:%2$02d:%3$02d</string>
+</resources>

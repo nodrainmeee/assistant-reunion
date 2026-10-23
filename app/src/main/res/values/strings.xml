@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assistant Réunion</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_meetings">Réunions</string>
+    <string name="nav_search">Recherche</string>
+    <string name="nav_settings">Réglages</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Assistant de Réunion</string>
+    <string name="home_subtitle">Transcription en direct et comptes rendus structurés</string>
+    <string name="home_btn_new_meeting">Nouvelle réunion</string>
+    <string name="home_interrupted_meeting_title">Réunion non terminée détectée</string>
+    <string name="home_interrupted_meeting_desc">Une session précédente a été interrompue. Que souhaitez-vous faire ?</string>
+    <string name="home_resume">Reprendre</string>
+    <string name="home_discard">Abandonner</string>
+
+    <!-- Status -->
+    <string name="status_active">En cours</string>
+    <string name="status_paused">En pause</string>
+    <string name="status_ended">Terminée</string>
+    <string name="status_analyzing">Analyse…</string>
+    <string name="status_analyzed">Analysée</string>
+    <string name="status_analysis_failed">Échec analyse</string>
+    <string name="duration_format">%1$02d:%2$02d:%3$02d</string>
+</resources>
