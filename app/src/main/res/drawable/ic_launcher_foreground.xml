@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Meeting document notepad outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,28 C35.8,28 34,29.8 34,32 L34,76 C34,78.2 35.8,80 38,80 L70,80 C72.2,80 74,78.2 74,76 L74,40 L62,28 L38,28 Z M60,42 L60,31.5 L70.5,42 L60,42 Z" />
+    
+    <!-- Sound wave / lines in document in accent blue cutout -->
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M42,48 L56,48 L56,51 L42,51 Z M42,55 L66,55 L66,58 L42,58 Z M42,62 L66,62 L66,65 L42,65 Z M42,69 L58,69 L58,72 L42,72 Z" />
+
+    <!-- Microphone badge at bottom right -->
+    <path
+        android:fillColor="#2C4D75"
+        android:pathData="M66,60 A12,12 0 1,0 66,84 A12,12 0 1,0 66,60 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,64 C64.6,64 63.5,65.1 63.5,66.5 L63.5,70.5 C63.5,71.9 64.6,73 66,73 C67.4,73 68.5,71.9 68.5,70.5 L68.5,66.5 C68.5,65.1 67.4,64 66,64 Z M70.5,70.5 C70.5,72.7 68.8,74.5 66.7,74.9 L66.7,77 L65.3,77 L65.3,74.9 C63.2,74.5 61.5,72.7 61.5,70.5 L63,70.5 C63,72.2 64.3,73.5 66,73.5 C67.7,73.5 69,72.2 69,70.5 L70.5,70.5 Z" />
+</vector>
